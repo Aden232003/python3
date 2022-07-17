@@ -1,6 +1,3 @@
-from cgi import test
-
-
 class Solution:
 
     def threeSum(self, nums):
